@@ -1,10 +1,14 @@
 #include "main.h"
 
+
+
 /**
  *  main - Entry point
- *  return void  
+ *
+ *  Return: nothing, return void  
  */
-void main(void)
+
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
