@@ -1,9 +1,19 @@
 #include "main.h"
 
+
+
+
+
 /**
- * main - Entry point
- * Return: nothing, return void
- */
+ *
+ *  * main - Entry point
+ *
+ *   *
+ *
+ *    * Return: nothing, return void
+ *
+ *     */
+
 
 
 int main(void)
