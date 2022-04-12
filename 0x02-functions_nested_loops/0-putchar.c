@@ -4,7 +4,6 @@
  *  main - Entry point
  *  return void  
  */
-
 void main(void)
 {
 	_putchar('_');
@@ -19,5 +18,3 @@ void main(void)
 
 	return (0);
 }
-
-
